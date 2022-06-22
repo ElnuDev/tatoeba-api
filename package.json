@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ElnuDev/tatoeba-api/issues"
   },
-  "homepage": "https://github.com/ElnuDev/tatoeba-api#readme"
+  "homepage": "https://github.com/ElnuDev/tatoeba-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
